@@ -1,6 +1,10 @@
+https://finalbastion.com/trivia-machine/?
+
 question: .quizQuestion
 
 next question button: #nextQuestion
+
+get my results button: #nextQuestion > div:nth-child(1)
 
 claim reward: .kiaccountsbuttongreen
 

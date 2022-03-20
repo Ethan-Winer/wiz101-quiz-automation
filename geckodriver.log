@@ -89,3 +89,796 @@ JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch res
 
 ###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
 
+1647811558342	geckodriver	INFO	Listening on 127.0.0.1:60017
+1647811561399	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofileFVI9gW"
+1647811561668	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofileFVI9gW\\search.json.mozlz4", (void 0)))
+1647811563403	Marionette	INFO	Listening on port 60025
+1647811563471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+1647811570932	Marionette	INFO	Stopped listening on port 60025
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1647812079974	geckodriver	INFO	Listening on 127.0.0.1:50250
+1647812083026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofileTVXZgK"
+1647812083301	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofileTVXZgK\\search.json.mozlz4", (void 0)))
+1647812084950	Marionette	INFO	Listening on port 50258
+1647812085100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+1647812121674	Marionette	INFO	Stopped listening on port 50258
+1647812123742	geckodriver	INFO	Listening on 127.0.0.1:50363
+1647812126836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofile3x9bCf"
+1647812127087	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofile3x9bCf\\search.json.mozlz4", (void 0)))
+1647812128671	Marionette	INFO	Listening on port 50375
+1647812128910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+1647812189929	Marionette	INFO	Stopped listening on port 50375
+1647812191239	geckodriver	INFO	Listening on 127.0.0.1:50489
+1647812194411	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofileatTSI8"
+1647812194656	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofileatTSI8\\search.json.mozlz4", (void 0)))
+1647812196217	Marionette	INFO	Listening on port 50498
+1647812196492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+1647812204648	Marionette	INFO	Stopped listening on port 50498
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1647812219595	geckodriver	INFO	Listening on 127.0.0.1:50603
+1647812222683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofileSE7LU0"
+1647812222928	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofileSE7LU0\\search.json.mozlz4", (void 0)))
+1647812224491	Marionette	INFO	Listening on port 50611
+1647812224778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+1647812236038	Marionette	INFO	Stopped listening on port 50611
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1647812282941	geckodriver	INFO	Listening on 127.0.0.1:50717
+1647812286010	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofile0h8T5H"
+1647812286273	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofile0h8T5H\\search.json.mozlz4", (void 0)))
+1647812288006	Marionette	INFO	Listening on port 50725
+1647812288064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+1647812300756	Marionette	INFO	Stopped listening on port 50725
+1647812407777	geckodriver	INFO	Listening on 127.0.0.1:50859
+1647812410852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofilekNphNJ"
+1647812411094	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofilekNphNJ\\search.json.mozlz4", (void 0)))
+1647812412804	Marionette	INFO	Listening on port 50867
+1647812412904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1647812457210	geckodriver	INFO	Listening on 127.0.0.1:50936
+1647812460299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofileW4jtIH"
+1647812460559	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofileW4jtIH\\search.json.mozlz4", (void 0)))
+1647812462308	Marionette	INFO	Listening on port 50944
+1647812462379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1647812505526	geckodriver	INFO	Listening on 127.0.0.1:51008
+1647812508591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofilezdOo5B"
+1647812508857	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofilezdOo5B\\search.json.mozlz4", (void 0)))
+1647812510503	Marionette	INFO	Listening on port 51018
+1647812510672	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+1647812530080	Marionette	INFO	Stopped listening on port 51018
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1647812530905	geckodriver	INFO	Listening on 127.0.0.1:51127
+1647812533981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofile1GDJrU"
+1647812534222	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofile1GDJrU\\search.json.mozlz4", (void 0)))
+1647812535899	Marionette	INFO	Listening on port 51135
+1647812536065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+1647812608070	Marionette	INFO	Stopped listening on port 51135
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1647813113586	geckodriver	INFO	Listening on 127.0.0.1:51417
+1647813116664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofilent9h0A"
+1647813116913	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofilent9h0A\\search.json.mozlz4", (void 0)))
+1647813118523	Marionette	INFO	Listening on port 51425
+1647813118732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+1647813138784	Marionette	INFO	Stopped listening on port 51425
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1647813148510	geckodriver	INFO	Listening on 127.0.0.1:51536
+1647813151592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofile1tGeYd"
+1647813151835	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofile1tGeYd\\search.json.mozlz4", (void 0)))
+1647813153523	Marionette	INFO	Listening on port 51544
+1647813153670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+1647813321372	Marionette	INFO	Stopped listening on port 51544
+1647813326472	geckodriver	INFO	Listening on 127.0.0.1:51711
+1647813329538	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofileRfh2d1"
+1647813329782	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofileRfh2d1\\search.json.mozlz4", (void 0)))
+1647813331499	Marionette	INFO	Listening on port 51719
+1647813331621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+1647813394560	Marionette	INFO	Stopped listening on port 51711647813394888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofile2UH4G1"
+1647813395144	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofile2UH4G1\\search.json.mozlz4", (void 0)))
+1647813396732	Marionette	INFO	Listening on port 51835
+1647813396942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+1647813469660	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+1647813495659	Marionette	INFO	Stopped listening on port 51835
+7813494819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofilePtidtx"
+1647813495088	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofilePtidtx\\search.json.mozlz4", (void 0)))
+1647813496995	Marionette	INFO	Listening on port 51954
+1647813497014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+1647813510415	geckodriver	INFO	Listening on 127.0.0.1:52055
+1647813513518	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofile3EqaU3"
+1647813513774	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofile3EqaU3\\search.json.mozlz4", (void 0)))
+1647813515495	Marionette	INFO	Listening on port 52064
+1647813515575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+1647813642265	Marionette	INFO	Stopped listening on port 52064
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1647813827653	geckodriver	INFO	Listening on 127.0.0.1:52217
+1647813830696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofilef1jqRy"
+1647813830955	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofilef1jqRy\\search.json.mozlz4", (void 0)))
+1647813832575	Marionette	INFO	Listening on port 63123
+1647813832756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1647813857735	geckodriver	INFO	Listening on 127.0.0.1:63196
+1647813860816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofileRRAbxq"
+1647813861052	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofileRRAbxq\\search.json.mozlz4", (void 0)))
+1647813862693	Marionette	INFO	Listening on port 63204
+1647813862881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+1647813935207	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647813937503	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647813938517	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647813941554	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647813942765	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647813943777	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647813944788	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647813945812	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647813946809	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647813947826	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647813948824	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647813949850	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647813950861	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647813951845	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647813952853	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647813953864	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647813954885	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647813955891	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647813956886	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647813957892	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647813958918	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647813959916	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647813960928	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647813961935	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647813962946	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647813963959	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647813964966	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647813983301	geckodriver	INFO	Listening on 127.0.0.1:63322
+1647813986369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofile62tgHp"
+1647813986616	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofile62tgHp\\search.json.mozlz4", (void 0)))
+1647813988225	Marionette	INFO	Listening on port 63330
+1647813988433	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+1647814000285	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647814001473	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647814002482	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647814003500	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647814004492	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647814005501	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647814006509	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647814007515	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647814008529	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647814009537	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647814010544	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647814011550	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647814014634	geckodriver	INFO	Listening on 127.0.0.1:63435
+1647814017714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofile51yVU4"
+1647814017957	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofile51yVU4\\search.json.mozlz4", (void 0)))
+1647814019512	Marionette	INFO	Listening on port 63443
+1647814019771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+1647814040103	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647814041209	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647814042215	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647814043225	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647814044234	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647814045246	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647814046258	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647814047282	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647814048291	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647814049285	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647814051599	geckodriver	INFO	Listening on 127.0.0.1:63547
+1647814054669	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofileye4XGq"
+1647814054921	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofileye4XGq\\search.json.mozlz4", (void 0)))
+1647814056674	Marionette	INFO	Listening on port 63555
+1647814056730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+1647814072542	geckodriver	INFO	Listening on 127.0.0.1:63645
+1647814075622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofileSJ60xz"
+1647814075861	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofileSJ60xz\\search.json.mozlz4", (void 0)))
+1647814077425	Marionette	INFO	Listening on port 63653
+1647814077682	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+1647814261606	Marionette	INFO	Stopped listening on port 63653
+7814249676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofileMKdPh4"
+1647814249917	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofileMKdPh4\\search.json.mozlz4", (void 0)))
+1647814251434	Marionette	INFO	Listening on port 63790
+1647814251743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1647814555935	geckodriver	INFO	Listening on 127.0.0.1:63962
+1647814558993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofileYOvjVl"
+1647814559234	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofileYOvjVl\\search.json.mozlz4", (void 0)))
+1647814560730	Marionette	INFO	Listening on port 63970
+1647814561064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+1647815027158	Marionette	INFO	Stopped listening on port 63970
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1647815142961	geckodriver	INFO	Listening on 127.0.0.1:64258
+1647815146042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofilegX27zJ"
+1647815146287	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofilegX27zJ\\search.json.mozlz4", (void 0)))
+1647815147842	Marionette	INFO	Listening on port 64266
+1647815148095	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647815333494	geckodriver	INFO	Listening on 127.0.0.1:64466
+1647815336577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofileolqULh"
+1647815336851	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofileolqULh\\search.json.mozlz4", (void 0)))
+1647815338405	Marionette	INFO	Listening on port 64474
+1647815338636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1647815347786	Marionette	INFO	Stopped listening on port 64474
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1647815374070	geckodriver	INFO	Listening on 127.0.0.1:64591
+1647815377135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofileD5wFlf"
+1647815377377	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofileD5wFlf\\search.json.mozlz4", (void 0)))
+1647815378938	Marionette	INFO	Listening on port 64599
+1647815379194	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647815654269	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
