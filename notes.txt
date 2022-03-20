@@ -1,0 +1,28 @@
+question: .quizQuestion
+
+next question button: #nextQuestion
+
+claim reward: .kiaccountsbuttongreen
+
+checkbox 1: div.answer:nth-child(1) > span:nth-child(1) > a:nth-child(1)
+answer 1: div.answer:nth-child(1) > span:nth-child(2)
+
+checkbox 2: div.answer:nth-child(2) > span:nth-child(1) > a:nth-child(1)
+answer 2: div.answer:nth-child(2) > span:nth-child(2)
+
+checkbox 3: div.answer:nth-child(3) > span:nth-child(1) > a:nth-child(1)
+answer 3: div.answer:nth-child(3) > span:nth-child(2)
+
+checkbox 4: div.answer:nth-child(4) > span:nth-child(1) > a:nth-child(1)
+answer 4: div.answer:nth-child(4) > span:nth-child(2)
+
+quiz links:
+https://www.wizard101.com/quiz/trivia/game/famous-poets
+https://www.wizard101.com/quiz/trivia/game/weather-trivia
+**https://www.wizard101.com/quiz/trivia/game/ninth-grade-vocabulary-trivia
+https://www.wizard101.com/quiz/trivia/game/dinosaur-trivia
+https://www.wizard101.com/quiz/trivia/game/wizard101-marleybone-trivia
+
+other stuff:
+add thing to refresh every 10 seconds if page takes too long to load
+if response excedes certain amount of characters or isn't found, click random thing
