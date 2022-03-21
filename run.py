@@ -1,6 +1,7 @@
 import requests
 from selenium import webdriver
 from time import sleep
+from pygame import mixer
 
 from selenium.common.exceptions import NoSuchElementException, StaleElementReferenceException
 
@@ -45,10 +46,14 @@ list_of_links = [
     'https://www.wizard101.com/quiz/trivia/game/state-capitals-trivia'
 
 ]
+mixer.init()
+mixer.music.load('alert.mp3')
+mixer.music.set_volume(0.6)
 
 driver.get('https://www.wizard101.com/game')
 
 input('input after sign in')
+
 
 for link in list_of_links:
     driver.get(link)
@@ -63,17 +68,18 @@ for link in list_of_links:
         sleep(1)
 
         safe_click('#nextQuestion', driver)
-
-        loaded = False
-        while not loaded:
-            try:
-                if question != driver.find_element_by_css_selector('.quizQuestion').text:
-                    loaded = True
-            except NoSuchElementException:
-                sleep(0.25)
-            except StaleElementReferenceException:
-                sleep(0.25)
-        sleep(4)
+        if i < 11:
+            loaded = False
+            while not loaded:
+                try:
+                    if question != driver.find_element_by_css_selector('.quizQuestion').text:
+                        loaded = True
+                except NoSuchElementException:
+                    sleep(0.25)
+                except StaleElementReferenceException:
+                    sleep(0.25)
+            sleep(4)
+    mixer.music.play()
     input("move to next confirm 1")
     input("move to next confirm 2")
 input('input to close driver')

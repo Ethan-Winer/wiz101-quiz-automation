@@ -882,3 +882,296 @@ console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message f
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
 1647815654269	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
 JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+1647857029297	geckodriver	INFO	Listening on 127.0.0.1:61090
+1647857032321	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofilexU0PUn"
+1647857032791	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofilexU0PUn\\search.json.mozlz4", (void 0)))
+1647857034688	Marionette	INFO	Listening on port 61098
+1647857035067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+1647857141168	Marionette	INFO	Stopped listening on port 61098
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1647857163579	geckodriver	INFO	Listening on 127.0.0.1:61232
+1647857166690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofile7JmxaF"
+1647857167100	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofile7JmxaF\\search.json.mozlz4", (void 0)))
+1647857168824	Marionette	INFO	Listening on port 61240
+1647857168875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1647857189479	geckodriver	INFO	Listening on 127.0.0.1:61309
+1647857192563	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofileFuTG5i"
+1647857192843	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofileFuTG5i\\search.json.mozlz4", (void 0)))
+1647857194481	Marionette	INFO	Listening on port 61317
+1647857194646	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+1647857723586	geckodriver	INFO	Listening on 127.0.0.1:61981
+1647857726635	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofiletTjEGK"
+1647857726953	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofiletTjEGK\\search.json.mozlz4", (void 0)))
+1647857728539	Marionette	INFO	Listening on port 61991
+1647857728722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+1647857878606	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+1647857950310	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+1647857963406	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+1647857972369	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647858037559	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+1647858043926	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+1647858045660	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+1647858253688	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+1647859482647	geckodriver	INFO	Listening on 127.0.0.1:56474
+1647859485731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofilecA13le"
+1647859486001	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofilecA13le\\search.json.mozlz4", (void 0)))
+1647859487605	Marionette	INFO	Listening on port 56482
+1647859487801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+1647860043195	Marionette	INFO	Stopped listening on port 56481647860045911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofileRbJyZT"
+1647860046194	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofileRbJyZT\\search.json.mozlz4", (void 0)))
+1647860047977	Marionette	INFO	Listening on port 56877
+1647860048084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+1647860366373	Marionette	INFO	Stopped listening on port 56871647860366701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofilexm96i7"
+1647860367019	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\yoyob\\AppData\\Local\\Temp\\rust_mozprofilexm96i7\\search.json.mozlz4", (void 0)))
+1647860368885	Marionette	INFO	Listening on port 57207
+1647860369372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+JavaScript warning: https://edgecast.wizard101.com/assets/tapestry/stack/en_US/core.js?bn=B1.0.76522, line 25: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.wizard101.com"
