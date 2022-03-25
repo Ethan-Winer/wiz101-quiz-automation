@@ -1,0 +1,118 @@
+list_of_links = [
+    'https://www.wizard101.com/quiz/trivia/game/famous-poets',
+    'https://www.wizard101.com/quiz/trivia/game/weather-trivia',
+    'https://www.wizard101.com/quiz/trivia/game/dinosaur-trivia',
+    'https://www.wizard101.com/quiz/trivia/game/wizard101-marleybone-trivia',
+    'https://www.wizard101.com/quiz/trivia/game/american-presidents-trivia',
+    'https://www.wizard101.com/quiz/trivia/game/book-quotes-trivia',
+    'https://www.wizard101.com/quiz/trivia/game/wizard101-zafaria-trivia',
+    'https://www.wizard101.com/quiz/trivia/game/greek-mythology-trivia',
+    'https://www.wizard101.com/quiz/trivia/game/norse-mythology-trivia',
+    'https://www.wizard101.com/quiz/trivia/game/state-capitals-trivia'
+
+]
+
+answer_map = {
+    # famous poets answer set
+    'Who wrote "Where the Sidewalk Ends"?': 'Shel Silverstein',
+    'Who Wrote "Let America Be America Again"?': 'Langston Hughes',
+    'Who wrote "If those I loved were lost"?': 'Emily Dickinson',
+    'Who Wrote "I Carry Your Heart With Me"?': 'E.E. Cummings',
+    'Who wrote "To You"?': 'Walt Whitman',
+    'Who wrote "Life is Fine"?': ' Langston Hughes',
+    'Who wrote "A Dream Within A Dream"?': 'Edgar Allan Poe',
+    'Who wrote "A Girl"?': ' Ezra Pound',
+
+    'Who Wrote "If You Forget Me"?:': 'Pablo Neruda',
+    'Who wrote "Stopping by the Woods on a Snowy Evening"?': 'Robert Frost',
+    'Who wrote "The Road Not Taken"?': 'Robert Frost',
+    'Who wrote "Messy Room"?': 'Shel Silverstein',
+    'Who Wrote "If You Forget Me"?': 'Pablo Neruda',
+    'Who wrote "Phenomenal Woman"?': 'Maya Angelou',
+    'Who wrote "Funeral Blues"?': 'W.H. Auden',
+    'Who wrote "There is Another Sky"?': 'Emily Dickinson',
+
+    # weather trivia
+    'What is a tornado called before it hits the ground?': 'Funnel Cloud',
+    'What type of cloud is below 6,500 feet in the atmosphere?': 'Stratus',
+    'What is the name of the strong radar that helps predict weather?': 'Doppler',
+    'Where do tornadoes come from?': 'Thunderstorms',
+    'In which two seasons are thunderstorms most likely to occur?': ' Spring & Summer',
+    'A waterspout is actually a weak ______ that forms over water.': 'Tornado',
+    'Which of the following is NOT needed to cause a blizzard?': ' Rotating storm clouds',
+    'What does a Tornado Watch mean?': 'Tornadoes are possible in your area.',
+    'What type of cloud usually looks white and puffy?': 'Cumulus',
+    'What is sleet?': 'Rain that freezes into ice before it hits ground',
+    'How fast do raindrops fall?': ' 7-18 miles per hour',
+    'How is snow formed?': 'Water vapor changes directly to ice high in the atmosphere',
+
+    'The ______ is the center of a hurricane and also the calmest part of the storm.': 'Eye',
+    'What type of cloud is above 18,000 feet in the atmosphere?': 'Cirrus',
+    'What causes the electric current that result in lightning?': 'Ice particles bumping into each other',
+    'Which of these states are not in "Tornado Alley"?': 'North Carolina',
+    'What type of cloud is between 6,500 feet to 18,000 feet in the atmosphere?': 'Alto',
+
+    # dinosaur trivia
+    'In what period did the Tyrannosaurus live?': 'Late Cretaceous',
+    'In what period did the Triceratops live?': 'Late Cretaceous',
+    'In what era did dinosaurs live?': 'Mesozoic',
+    'Which dinosaur most closely resembles a rhinoceros?': 'Triceratops',
+    "What does the name 'Triceratops' mean?": ' three-horned face',
+    'The largest dinosaurs were __________________.': 'Sauropods',
+    'Which dinosaur had a long neck to help reach high and low vegetation?': 'Diplodocus',
+    'Which carnivorous dinosaur had teeth up to 8 inches long?': 'Tyrannosaurus',
+    'What caused the extinction of dinosaurs according to scientists?': 'Scientists are not 100% sure. There is still heavy debate.',
+    'Dinosaurs belonged to which group of animals?': 'Reptiles',
+    'Which dinosaur had hollow limb bones?': 'Coelophysis',
+    'What profession studies dinosaur fossils?': 'Paleontologist',
+
+    "What does the word 'dinosaur' mean?'": "'Terrible Lizard",
+    'In what period did the Coelophysis live?': 'Late Triassic',
+    'Which of these is not a dinosaur?': 'Pterodactyl',
+    'In what period did the Diplodocus live?': 'Late Jurassic',
+    "Who coined the term 'dinosauria?'": 'Sir Richard Owen',
+    'In what period did the Stegosaurus live?': 'Late Jurassic',
+
+    # Marleybone Trivia
+    "What is Sgt. Major Talbot's full name?": 'Sylvester Quimby Talbot III',
+    "What initials were on the doctor's glove?": 'XX',
+    "Which symbol is not on the stained glass window in Regent's Square?": 'A Tennis Ball',
+    'What time does the clock always read in Marleybone?': '1:55',
+    'What two names are on the Statues in the Marleybone cathedral?': 'Saint Bernard and Saint Hubert',
+    'Arthur Wethersfield is A:..': 'Dog',
+    "Who is not an officer you'll find around Marleybone?": 'Officer Digmore',
+    "What is flying around in Regent's Square?": 'Newspapers',
+    "Which is not a street in Regent's Square?": 'Fleabitten Ave',
+    'What did Prospector Zeke lose in Marleybone?': 'The Stray Cats',
+    'What time of day is it always in Marleybone?': 'Night',
+    'What style of artifacts are in the Royal Museum?': 'Krokotopian',
+
+    # presidents
+    'Who was the 30th president of the United States?': 'Calvin Coolidge',
+    'Who was the 39th president of the United States?': 'Jimmy Carter',
+    'Who was the 17th president of the United States?': 'Andrew Johnson',
+    'Who was the 21st president of the United States?': 'Chester A. Arthur',
+    'Who was the 8th president of the United States?': 'Martin Van Buren',
+    'Who was the 7th president of the United States?': 'Andrew Jackson',
+    'Who was the 35th president of the United States?': 'John F. Kennedy',
+    'Who was the 29th president of the United States?': 'Warren G. Harding',
+    'Who was the 40th president of the United States?': 'Ronald Reagan',
+    'Who was the 2nd president of the United States?': 'John Adams',
+    'Who was the 6th president of the United States?': 'John Quincy Adams',
+    'Who was the 18th president of the United States?': 'Ulysses S. Grant',
+
+    # book quotes trivia
+    '"In spite of everything I still believe that people are really good at heart"': 'The Diary of Anne Frank',
+    '"It is to the credit of human nature that, except where its selfishness is brought into play, it loves more readily than it hates."': 'The Scarlet Letter',
+    '"Most people were heartless about turtles because a turtle' + "'" + 's heart will beat for hours after it has been cut up and butchered. But the old man thought, I have such a heart too."': 'The Old Man and the Sea',
+    '"All grown-ups were once children - but only few of them remember it."': 'The Little Prince',
+    '"Call me Ishmael."': 'Moby Dick',
+    '"I wanted you to see what real courage is, instead of getting the idea that courage is a man with a gun in his hand. It' + "'" + 's when you know you' + "'" + 're licked before you begin but you begin anyway and you see it through no matter what."': 'To Kill a Mockingbird',
+    '"Not all those who wander are lost."': 'The Lord of the Rings',
+    '"Don' +"'" + 't ever tell anybody anything. If you do, you start missing everybody."': 'The Catcher in the Rye',
+    '"It was a pleasure to burn."': 'Farenheit 451',
+    '"I have been bent and broken, but - I hope - into a better shape."': 'Great Expectations',
+    '"All animals are equal, but some animals are more equal than others."': 'Animal Farm',
+    '"I' +"'" + 'm not afraid of storms, for I' +"'" + 'm learning how to sail my ship."': 'Little Women',
+
+}
