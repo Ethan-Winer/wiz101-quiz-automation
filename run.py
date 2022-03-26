@@ -3,7 +3,7 @@ from time import sleep
 from pygame import mixer
 from selenium.common.exceptions import NoSuchElementException, StaleElementReferenceException
 
-from stuff import answer_map, list_of_links
+from stuff import answer_map, link_map
 
 driver = webdriver.Firefox(executable_path='D:\Programming\Geckodriver\geckodriver.exe')
 
@@ -14,18 +14,25 @@ def get_answer_list():
         answers.append(answer)
     return answers
 
-def get_answer(question):
+def get_answer(question, topic):
     answers = get_answer_list()
-    if question in answer_map:
-        for i in range(0, 4):
-            if answers[i] in answer_map[question] or answer_map[question] in answers[i]:
-                return str(i+1)
+    # if question in answer_map:
+    #     for i in range(0, 4):
+    #         if answers[i] in answer_map[question] or answer_map[question] in answers[i]:
+    #             return str(i+1)
+    for i in range(0, len(answer_map[topic])):
+        if answer_map[topic][i][0] == question:
+            for k in range(0,4):
+                if answer_map[topic][i][1] in answers[k]:
+                    return k + 1
 
-    mixer.music.play()
-    print('1 -- 2\n3 -- 4')
-    number = input('question not found bruh. give number: ')
-    print("'" + question + "'" + ': ' + "'" +driver.find_element_by_css_selector('div.answer:nth-child(' + number + ') > span:nth-child(2)').text + "',")
-    return number
+    print('guess')
+    return 1
+    # mixer.music.play()
+    # print('1 -- 2\n3 -- 4')
+    # number = input('question not found bruh. give number: ')
+    # print("'" + question + "'" + ': ' + "'" +driver.find_element_by_css_selector('div.answer:nth-child(' + number + ') > span:nth-child(2)').text + "',")
+    # return number
 
 def safe_click(selector):
     clicked = False
@@ -47,16 +54,16 @@ driver.get('https://www.wizard101.com/game')
 input('input after sign in')
 
 
-for link in list_of_links:
-    driver.get(link)
+for topic in link_map:
+    driver.get(link_map[topic])
     sleep(5)
     for i in range(0, 12):
         print('current question: ' + str(i + 1))
         sleep(4)
 
         question = driver.find_element_by_css_selector('.quizQuestion').text
-        answer_number = get_answer(question)
-        safe_click('div.answer:nth-child('+ answer_number +') > span:nth-child(1) > a:nth-child(1)')
+        answer_number = get_answer(question, topic)
+        safe_click('div.answer:nth-child('+ str(answer_number) +') > span:nth-child(1) > a:nth-child(1)')
         sleep(1)
 
         safe_click('#nextQuestion')
