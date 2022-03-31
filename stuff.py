@@ -1,23 +1,19 @@
 link_map = {
-    # test links
-    'Landforms': 'https://www.wizard101.com/quiz/trivia/game/landforms-trivia',
+    # gets 11/12 or 12/12
     'Habitats': 'https://www.wizard101.com/quiz/trivia/game/habitats-trivia',
-    'State Nicknames': 'https://www.wizard101.com/quiz/trivia/game/state-nicknames-trivia',
-    'Constellations': 'https://www.wizard101.com/quiz/trivia/game/constelations-trivia',
-
-    # working for the most part
-    'Ancient Egypt': 'https://www.wizard101.com/quiz/trivia/game/ancient-egypt-trivia',
-    'Big Cats': 'https://www.wizard101.com/quiz/trivia/game/big-cats-trivia',
-    'Early American History': 'https://www.wizard101.com/quiz/trivia/game/early-american-history-trivia',
-    'World Capitals': 'https://www.wizard101.com/quiz/trivia/game/world-capitals-trivia',
+    'State Nicknames': 'https://www.wizard101.com/quiz/trivia/game/state-nicknames-trivia', # poggers
+    'Constellations': 'https://www.wizard101.com/quiz/trivia/game/constellations-trivia', #poggers
+    'Big Cats': 'https://www.wizard101.com/quiz/trivia/game/big-cats-trivia',# a little sketch but good, 11/12
     'Solar System': 'https://www.wizard101.com/quiz/trivia/game/solar-system-trivia',
-    'State Animals': 'https://www.wizard101.com/quiz/trivia/game/state-animals-trivia',
-
-    # need to test
     'Famous Poets': 'https://www.wizard101.com/quiz/trivia/game/famous-poets',
-    'Weather': 'https://www.wizard101.com/quiz/trivia/game/weather-trivia',
     'Dinosaur': 'https://www.wizard101.com/quiz/trivia/game/dinosaur-trivia',
     'Wizard101 Marleybone': 'https://www.wizard101.com/quiz/trivia/game/wizard101-marleybone-trivia',
+
+    # find some answers for
+    'Ancient Egypt': 'https://www.wizard101.com/quiz/trivia/game/ancient-egypt-trivia', # sketch but good, 10/12
+
+    # need to test
+    'Weather': 'https://www.wizard101.com/quiz/trivia/game/weather-trivia',
     'American Presidents': 'https://www.wizard101.com/quiz/trivia/game/american-presidents-trivia',
     'Book Quotes': 'https://www.wizard101.com/quiz/trivia/game/book-quotes-trivia',
     'Wizard101 Zafaria': 'https://www.wizard101.com/quiz/trivia/game/wizard101-zafaria-trivia',
