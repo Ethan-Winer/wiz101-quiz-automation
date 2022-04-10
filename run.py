@@ -1,7 +1,9 @@
 from selenium import webdriver
 from time import sleep
 from pygame import mixer
-from selenium.common.exceptions import NoSuchElementException, StaleElementReferenceException
+from selenium.common.exceptions import NoSuchElementException, StaleElementReferenceException, \
+    ElementNotInteractableException
+import os
 
 from stuff import answer_map, link_map
 
@@ -16,10 +18,6 @@ def get_answer_list():
 
 def get_answer(question, topic):
     answers = get_answer_list()
-    # if question in answer_map:
-    #     for i in range(0, 4):
-    #         if answers[i] in answer_map[question] or answer_map[question] in answers[i]:
-    #             return str(i+1)
     for i in range(0, len(answer_map[topic])):
         if answer_map[topic][i][0] == question:
             for k in range(0,4):
@@ -28,11 +26,6 @@ def get_answer(question, topic):
 
     print('guess')
     return 1
-    # mixer.music.play()
-    # print('1 -- 2\n3 -- 4')
-    # number = input('question not found bruh. give number: ')
-    # print("'" + question + "'" + ': ' + "'" +driver.find_element_by_css_selector('div.answer:nth-child(' + number + ') > span:nth-child(2)').text + "',")
-    # return number
 
 def safe_click(selector):
     clicked = False
@@ -40,7 +33,7 @@ def safe_click(selector):
         try:
             driver.find_element_by_css_selector(selector).click()
             clicked = True
-        except Exception:
+        except NoSuchElementException or StaleElementReferenceException:
             sleep(0.25)
             print('waiting to click safely')
 
@@ -50,8 +43,17 @@ mixer.music.load('alert.mp3')
 mixer.music.set_volume(0.4)
 
 driver.get('https://www.wizard101.com/game')
+sleep(1)
+username = os.environ.get("wiz_101_username")
+password = os.getenv("wiz_101_password")
 
-input('input after sign in')
+driver.find_element_by_css_selector('#loginUserName').send_keys(username)
+driver.find_element_by_css_selector('#loginPassword').send_keys(password)
+sleep(0.25)
+driver.find_element_by_css_selector('.wizardButtonInput > div:nth-child(2) > input:nth-child(1)').click()
+
+
+# input('input after sign in')
 
 
 for topic in link_map:
@@ -78,7 +80,16 @@ for topic in link_map:
                 except StaleElementReferenceException:
                     sleep(0.25)
     mixer.music.play()
-    input("move to next confirm 1")
-    input("move to next confirm 2")
-input('input to close driver')
+
+    onScoreScreen = False
+    while not onScoreScreen:
+        try:
+            if driver.find_element_by_css_selector(".quizScore").text != '??':
+                onScoreScreen = True
+            else:
+                sleep(0.25)
+        except NoSuchElementException or ElementNotInteractableException:
+            sleep(0.25)
+    sleep(2)
+sleep(3)
 driver.close()
