@@ -7,7 +7,7 @@ import os
 
 from stuff import answer_map, link_map
 
-driver = webdriver.Firefox(executable_path='D:\Programming\Geckodriver\geckodriver.exe')
+driver = webdriver.Firefox(executable_path='D:\Programming\Geckodriver\geckodriver.exe',service_args='/dev/null')
 
 def get_answer_list():
     answers = []
@@ -33,7 +33,7 @@ def safe_click(selector):
         try:
             driver.find_element_by_css_selector(selector).click()
             clicked = True
-        except NoSuchElementException or StaleElementReferenceException:
+        except NoSuchElementException or StaleElementReferenceException or ElementNotInteractableException:
             sleep(0.25)
             print('waiting to click safely')
 
