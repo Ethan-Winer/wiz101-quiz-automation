@@ -7,7 +7,7 @@ import os
 
 from stuff import answer_map, link_map
 
-driver = webdriver.Firefox(executable_path='D:\Programming\Geckodriver\geckodriver.exe',service_args='/dev/null')
+driver = webdriver.Firefox(executable_path='D:\Programming\Geckodriver\geckodriver.exe',service_log_path=os.devnull)
 
 def get_answer_list():
     answers = []
