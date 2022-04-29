@@ -7,7 +7,7 @@ import os
 
 from stuff import answer_map, link_map
 
-driver = webdriver.Firefox(executable_path='D:\Programming\Geckodriver\geckodriver.exe',service_log_path=os.devnull)
+driver = webdriver.Firefox(executable_path=os.getenv("geckodriver_path"),service_log_path=os.devnull)
 
 def get_answer_list():
     answers = []
@@ -44,7 +44,7 @@ mixer.music.set_volume(0.4)
 
 driver.get('https://www.wizard101.com/game')
 sleep(1)
-username = os.environ.get("wiz_101_username")
+username = os.getenv("wiz_101_username")
 password = os.getenv("wiz_101_password")
 
 driver.find_element_by_css_selector('#loginUserName').send_keys(username)
